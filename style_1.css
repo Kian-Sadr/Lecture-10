@@ -1,0 +1,25 @@
+body{
+  font-size:28px;
+  display:grid;
+}
+
+p{
+  border: dotted;
+  background-color: black;
+  color: white;
+}
+
+h1{
+  text-align:center;
+}
+
+img{
+  width:300px;
+  border:solid;
+}
+
+#pictures{
+  display:grid;
+  grid-template-columns:1fr 1fr 1fr;
+  gap: 100px 250px
+}
