@@ -20,6 +20,8 @@ img{
 
 #pictures{
   display:grid;
-  grid-template-columns:1fr 1fr 1fr;
-  gap: 100px 250px
+  grid-template-columns:1fr 1fr 1fr; /*fr = fractional unit*/
+  gap: 100px 250px; /*top-bottom gap, left-right gap*/
+  grid-template-rows: 30px 50px 70px 1000px;
+  
 }
