@@ -1,0 +1,23 @@
+:root{
+  --background-color: #353663
+  --text-color: #E7E8C3;
+}
+
+body{
+  font-size:28px;
+}
+
+p{
+  border:groove;
+  backgroud-color: var(--background-color);
+  color: car(--text-color);
+  border-color: var(--text-color);
+}
+
+h1{
+  text-align:center;
+  }
+
+img{
+  width:250px;
+}
