@@ -16,6 +16,9 @@ p{
 
 h1{
   text-align:center;
+  --text-color: #C3E8D1;
+  background-color: var(--background-color);
+  color: var(--text-color);
   }
 
 img{
